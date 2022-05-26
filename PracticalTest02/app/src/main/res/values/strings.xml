@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="key_placeholder">Cheie</string>
+    <string name="value">Valoare</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+
 </resources>
